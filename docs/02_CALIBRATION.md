@@ -1,6 +1,6 @@
 # Pre-Run Calibration
 
-**Do not launch the full 1000-book batch until you have completed this.**
+**Do not launch the full books batch until you have completed this.**
 
 ## Why calibrate
 
