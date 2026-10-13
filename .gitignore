@@ -1,0 +1,27 @@
+# Data (never commit)
+input_books/
+output_searchable/
+page_cache/
+qa_reports/
+logs/
+ground_truth/
+*.BAD.pdf
+*.debug.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Model weights (downloaded at runtime, ~500 MB)
+*.safetensors
+*.bin
+*.pt

@@ -1,0 +1,13 @@
+# Core model
+torch>=2.5
+transformers
+einops
+pillow
+PyMuPDF>=1.24.0
+
+# Optional: ground-truth CER
+arabic-reshaper
+python-bidi
+
+# Utilities
+tqdm
